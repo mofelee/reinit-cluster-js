@@ -1,0 +1,10 @@
+{
+  "name": "reinit-cluster-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "MofeLee <mofe@me.com>",
+  "license": "MIT",
+  "dependencies": {
+    "simple-aliyun": "^1.0.1"
+  }
+}
